@@ -21,6 +21,7 @@ source
 tex
 tpm
 ttf2pk
+xindy
 
 # Windows image file caches
 Thumbs.db
