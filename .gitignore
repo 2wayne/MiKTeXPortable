@@ -1,27 +1,5 @@
 # PA.c files
-bibtex
-doc
-dvipdfm
-dvips
-fontconfig
-fontname
-fonts
-ghostscript
-hunspell
-makeindex
-metafont
-metapost
-mft
-miktex
-pdftex
-poppler
-psutils
-scripts
-source
-tex
-tpm
-ttf2pk
-xindy
+texmfs
 
 # Windows image file caches
 Thumbs.db
